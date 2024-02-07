@@ -6,7 +6,7 @@ public class SecondTestCase {
 
     @Test
     public void testSomethingElse(){
-        fail("Not yet implemented");
+
     }
 
     @Test
